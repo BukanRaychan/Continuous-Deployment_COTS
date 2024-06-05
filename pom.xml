@@ -15,7 +15,7 @@
    <repository>
      <id>github</id>
      <name>GitHub OWNER Apache Maven Packages</name>
-     <url>https://maven.pkg.github.com/BukanRaychan/tesreal</url>
+     <url>https://maven.pkg.github.com/BukanRaychan/continuous-deployment_COTS.git</url>
    </repository>
 </distributionManagement>
 </project>
