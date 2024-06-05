@@ -17,7 +17,7 @@
         </repository>
         <repository>
           <id>github</id>
-          <url>https://maven.pkg.github.com/BukanRaychan/continuous-deployment_COTS.git</url>
+          <url>https://maven.pkg.github.com/BukanRaychan/tesrelease.git</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
